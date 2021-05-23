@@ -1,0 +1,3 @@
+/home/jadon/Desktop/head_first_design_pattern_cpp/build/CMakeFiles/rebuild_cache.dir
+/home/jadon/Desktop/head_first_design_pattern_cpp/build/CMakeFiles/DuckUSim.dir
+/home/jadon/Desktop/head_first_design_pattern_cpp/build/CMakeFiles/edit_cache.dir
