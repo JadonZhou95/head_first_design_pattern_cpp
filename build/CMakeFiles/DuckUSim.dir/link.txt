@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/DuckUSim.dir/src/ch1_strategy_pattern/DuckUSim.cpp.o  -o DuckUSim 
