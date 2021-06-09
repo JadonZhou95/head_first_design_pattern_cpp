@@ -5,3 +5,4 @@ This package reproduces the design pattern introduced in Book _Head First Design
 * Strategy Pattern
 * Observer Pattern
 * Decorator Pattern
+* Factory Method Pattern & Abstract Factory Pattern
